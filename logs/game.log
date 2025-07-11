@@ -1,0 +1,14 @@
+2025-07-11 16:25:35,066 - AethermoorRPG - INFO - info:87 - [GENERAL] Logger initialized successfully
+2025-07-11 16:25:35,066 - AethermoorRPG - INFO - info:87 - [GENERAL] Starting Chronicles of Aethermoor...
+2025-07-11 16:25:35,185 - AethermoorRPG - INFO - info:87 - [GENERAL] Time Manager initialized
+2025-07-11 16:25:35,185 - AethermoorRPG - INFO - info:87 - [GENERAL] Game Engine initialized
+2025-07-11 16:25:35,188 - AethermoorRPG - INFO - info:87 - [GENERAL] Display initialized: (1280, 720)
+2025-07-11 16:25:35,188 - AethermoorRPG - WARNING - warning:91 - [GENERAL] Some states not available yet: No module named 'game.states'
+2025-07-11 16:25:35,188 - AethermoorRPG - INFO - info:87 - [GENERAL] Input system initialized
+2025-07-11 16:25:35,188 - AethermoorRPG - INFO - info:87 - [GENERAL] Game Engine initialization complete
+2025-07-11 16:25:35,189 - AethermoorRPG - INFO - info:87 - [GENERAL] Starting main game loop
+2025-07-11 16:25:35,189 - AethermoorRPG - INFO - info:87 - [GENERAL] Entered state: splash_screen
+2025-07-11 16:25:35,189 - AethermoorRPG - INFO - info:87 - [GENERAL] Changed to state: splash_screen
+2025-07-11 16:40:34,993 - AethermoorRPG - INFO - info:87 - [GENERAL] Game interrupted by user
+2025-07-11 16:40:34,993 - AethermoorRPG - INFO - info:87 - [GENERAL] Shutting down game engine
+2025-07-11 16:40:34,994 - AethermoorRPG - INFO - info:87 - [GENERAL] Game engine shutdown complete
